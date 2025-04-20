@@ -1,4 +1,6 @@
 # Diabetes-Classifier
+**Chris Bowers, Noah Adelson, and Aidan Hurwitz**
+
 This repository is for our COP3530 final project
 
 Final Report Link: https://docs.google.com/document/d/1-6Z9DI3SmklCurCb7268AZU8teDmxbx-Spy1Bzm3G5E/edit?usp=sharing
