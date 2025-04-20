@@ -3,7 +3,7 @@ This repository is for our COP3530 final project
 
 Final Report Link: https://docs.google.com/document/d/1-6Z9DI3SmklCurCb7268AZU8teDmxbx-Spy1Bzm3G5E/edit?usp=sharing
 
-Video Link: 
+Video Link: https://youtu.be/t78_6_rmVyg
 
 ## Running the code
 
